@@ -1,10 +1,12 @@
 #title {
   background-color: #fff;
+  color:white;
 }
 .navbar-brand {
   font-family: 'Abel', sans-serif;
   font-size: 3rem;
   margin-left: 1%;
+  color:white;
 
 }
 
@@ -554,3 +556,6 @@ text-align: justify;
 .navbar{
   background-color: tan;
   color: white;
+.nav-link{
+color: white;
+}
