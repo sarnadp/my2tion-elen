@@ -554,8 +554,9 @@ text-align: justify;
   padding-left: 45%;
 } */
 .navbar{
-  background-color: tan;
-  color: white;
+  background-color:tan;
+  color:white;
+}
 .nav-link{
 color: white;
 }
